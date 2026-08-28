@@ -1,0 +1,9 @@
+yt-dlp
+beautifulsoup4
+aiohttp
+pillow
+psutil
+python-dotenv
+lolka-py
+requests
+numpy
